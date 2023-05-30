@@ -26,6 +26,10 @@ Week #5 (15-19): polish and clean up make sure everything is working well
 ## Code 
 
 ## Design 
+ <img src="https://github.com/sgupta70/PID-pingpong/assets/71406905/65cda6bc-3e93-4228-a363-448829e8bec3.png" style ="width:35%">
+ <img src="https://github.com/sgupta70/PID-pingpong/assets/71406905/7cac6e90-337f-4b94-970d-05e035b17bbe.png" style ="width:35%">
+ <img src="https://github.com/sgupta70/PID-pingpong/assets/71406905/ca4ff236-7ea3-4e36-bf20-3890e58e26d8.png" style ="width:35%">
+ <img src="https://github.com/sgupta70/PID-pingpong/assets/71406905/3f73d7a6-bd4f-4708-8dad-660b59d8a7e2.png" style ="width:35%">
 
 ## Pictures
 
