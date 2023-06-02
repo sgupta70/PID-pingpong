@@ -23,8 +23,7 @@ Week #5 (15-19): polish and clean up make sure everything is working well
 
 ## Wiring 
 
-![Screenshot (24)](https://github.com/sgupta70/PID-pingpong/assets/71406905/cbdad786-0cde-48e0-8021-990e325f4565)
-
+![Screenshot (25)](https://github.com/sgupta70/PID-pingpong/assets/71406905/04454624-fa24-459b-b9da-c3982919b143)
 
 ## Code 
 ```
@@ -72,7 +71,8 @@ while True:
 
 ## Pictures
 
-![IMG-3467](https://github.com/sgupta70/PID-pingpong/assets/71406905/d5d351da-aad7-45b3-ad70-eadce99d5755)
+ <img src="https://github.com/sgupta70/PID-pingpong/assets/71406905/d5d351da-aad7-45b3-ad70-eadce99d5755.png" style ="width:50%">
+ 
 ![ezgif com-gif-maker (1)](https://github.com/sgupta70/PID-pingpong/assets/71406905/c0947d23-c654-4633-b2e8-995993a2d52a)
 
 ## Problems/Limitations
