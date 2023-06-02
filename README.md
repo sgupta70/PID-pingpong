@@ -23,6 +23,9 @@ Week #5 (15-19): polish and clean up make sure everything is working well
 
 ## Wiring 
 
+![Screenshot (24)](https://github.com/sgupta70/PID-pingpong/assets/71406905/cbdad786-0cde-48e0-8021-990e325f4565)
+
+
 ## Code 
 ```
 #Sahana Gupta 
@@ -65,11 +68,12 @@ while True:
  <img src="https://github.com/sgupta70/PID-pingpong/assets/71406905/ca4ff236-7ea3-4e36-bf20-3890e58e26d8.png" style ="width:35%">
  <img src="https://github.com/sgupta70/PID-pingpong/assets/71406905/3f73d7a6-bd4f-4708-8dad-660b59d8a7e2.png" style ="width:35%">
  
- [Link to OnShapedocument](https://cvilleschools.onshape.com/documents/dff44fc98d8d4c4a7a1a7dcc/w/483d116250ae88e43d19ab31/e/f060f7d074c5ca5ca4689b35)
+ [Link to OnShape document](https://cvilleschools.onshape.com/documents/dff44fc98d8d4c4a7a1a7dcc/w/483d116250ae88e43d19ab31/e/f060f7d074c5ca5ca4689b35)
 
 ## Pictures
 
-<img src="blob:chrome-untrusted://media-app/180b72b0-5fcc-4574-a353-9a86c5f4155a" alt="IMG-3467.jpg"/>
+![IMG-3467](https://github.com/sgupta70/PID-pingpong/assets/71406905/d5d351da-aad7-45b3-ad70-eadce99d5755)
+![ezgif com-gif-maker (1)](https://github.com/sgupta70/PID-pingpong/assets/71406905/c0947d23-c654-4633-b2e8-995993a2d52a)
 
 ## Problems/Limitations
 
@@ -77,3 +81,6 @@ Starting this porject we had a pretty set idea on what we wanted to do, original
 
 
 ## Reflection
+
+This project was pretty simple to design and build, but our first main issue was not having a fan that was strong enough to lift the ball. This was fixed with [Mr.Deirof's fan design](https://cvilleschools.onshape.com/documents/a12315ff8814f391ded597a0/w/01d64ee189f5fd2a55fd9170/e/7d11469ab6277ca4e45af74b) on Onshape, and creating a custom nosel to attach the tube to the fan. Due to the tube causing the fan to not be able to balance and stand on its own, we designed a base with feet to help support and stablize it. The hardest part of this assignment was the code. After figuring out how to get the DC motor (the fan motor) to change speed using a potentiometer, we attached an untrasonic sensor to the top, reading and printing the distance of the ball. The hardest part was figuring out how to connect the motor speed with the read distance using PID. After getting lots of help from the internet and our teachers, we were able to get the PID added. This code prints the fan speed adn the distance of the ball in the tube. With all of the knowlage we gained on this project, making something similar to it again will bve much easier. We are overall very happy with how presise this project turned out. 
+
