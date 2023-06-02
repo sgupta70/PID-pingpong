@@ -70,7 +70,9 @@ while True:
 ## Pictures
 
 <img src="blob:chrome-untrusted://media-app/180b72b0-5fcc-4574-a353-9a86c5f4155a" alt="IMG-3467.jpg"/>
-## Problems/Limitations 
+
+## Problems/Limitations
+
 Starting this porject we had a pretty set idea on what we wanted to do, originally we were gonna use a computer fan but we realized that it wouldn't be strong enough to lift the ping-pong ball. This wasn't a huge problem because Mr. Dierof gave us a fan that he made whihc was very strong. We did have to switch our CAD design a little bit but it wasn't terrible. On the code side of things I started with using old code that I had already used for past projects for the potentiometer and ultra-sonic sensor. This helped a lot and once I was able to get the fan working everything came pretty easy. It was our first time using PID so it ws a little hard to understand in the beginning but by the end we were able to get the correct values to keep the ball steady. 
 
 
