@@ -2,6 +2,12 @@
 ## Description 
 For this project we were assigned to design, build, and program a device that uses PID feedback control. We decided that we would use PID to keep a ping-pong ball floating in a steady position. We are using a motor which works as a fan that will increase or decrease its speed depending on the distance from a sensor to keep it in one place.
 
+## Goal 
+Our goal for this project was to use PID feedback to control a motor that would act like a fan, the fan would then blow a fan to a steady position and the PID feedback would control it giving the an the power it needed to stay at the set point. 
+
+## Success Statement 
+Our project is successful when we get a pingpong ball to stay in a steady, controlled position at the set point. 
+
 ## Plan/Schedule 
 Week #1 (17-21): start code, get the sensor code working/start CAD                                                                                                       
 Week #2 (24-28): figure out how to get the fan working/ continue working on CAD                                                                                           
@@ -31,6 +37,7 @@ This is the project wiring. The black part with an N represents a large transist
 ```
 #Sahana Gupta 
 #Ping-Pong 
+#control a ping pong ball using PID to control a motor and a sensor 
 
 import time
 import adafruit_hcsr04
