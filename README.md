@@ -25,7 +25,7 @@ Week #5 (15-19): polish and clean up make sure everything is working well
 
 ![Screenshot (25)](https://github.com/sgupta70/PID-pingpong/assets/71406905/04454624-fa24-459b-b9da-c3982919b143)
 
-This is the project wiring. The back part with an N represents a large transistor. It is powered by a 9V battery pack.
+This is the project wiring. The black part with an N represents a large transistor. It is powered by a 9V battery pack.
 
 ## Code 
 ```
@@ -75,7 +75,11 @@ while True:
 
  <img src="https://github.com/sgupta70/PID-pingpong/assets/71406905/d5d351da-aad7-45b3-ad70-eadce99d5755.png" style ="width:50%">
  
+ This is a picture of the full design printed, wired, and put together.
+ 
 ![ezgif com-gif-maker (1)](https://github.com/sgupta70/PID-pingpong/assets/71406905/c0947d23-c654-4633-b2e8-995993a2d52a)
+
+This is a video of the design, code, and wiring working to keep the ball in a steady position. The position is marked by the two orange rings around the outside of the tube.
 
 ## Problems/Limitations
 
@@ -84,5 +88,5 @@ Starting this porject we had a pretty set idea on what we wanted to do, original
 
 ## Reflection
 
-This project was pretty simple to design and build, but our first main issue was not having a fan that was strong enough to lift the ball. This was fixed with [Mr.Deirof's fan design](https://cvilleschools.onshape.com/documents/a12315ff8814f391ded597a0/w/01d64ee189f5fd2a55fd9170/e/7d11469ab6277ca4e45af74b) on Onshape, and creating a custom nosel to attach the tube to the fan. Due to the tube causing the fan to not be able to balance and stand on its own, we designed a base with feet to help support and stablize it. The hardest part of this assignment was the code. After figuring out how to get the DC motor (the fan motor) to change speed using a potentiometer, we attached an untrasonic sensor to the top, reading and printing the distance of the ball. The hardest part was figuring out how to connect the motor speed with the read distance using PID. After getting lots of help from the internet and our teachers, we were able to get the PID added. This code prints the fan speed adn the distance of the ball in the tube. With all of the knowlage we gained on this project, making something similar to it again will bve much easier. We are overall very happy with how presise this project turned out. 
+This project was pretty simple to design and build, but our first main issue was not having a fan that was strong enough to lift the ball. This was fixed with [Mr.Deirof's fan design](https://cvilleschools.onshape.com/documents/a12315ff8814f391ded597a0/w/01d64ee189f5fd2a55fd9170/e/7d11469ab6277ca4e45af74b) on Onshape, and creating a custom nosel to attach the tube to the fan. Due to the tube causing the fan to not be able to balance and stand on its own, we designed a base with feet to help support and stablize it. The hardest part of this assignment was the code. After figuring out how to get the DC motor (the fan motor) to change speed using a potentiometer, we attached an untrasonic sensor to the top, reading and printing the distance of the ball. The hardest part was figuring out how to connect the motor speed with the read distance using PID. After getting lots of help from the internet and our teachers, we were able to get the PID added. This code prints the fan speed adn the distance of the ball in the tube. With all of the knowlage we gained on this project, making something similar to it again will be much easier. We are overall very happy with how presise this project turned out. 
 
