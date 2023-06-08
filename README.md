@@ -25,6 +25,8 @@ Week #5 (15-19): polish and clean up make sure everything is working well
 
 ![Screenshot (25)](https://github.com/sgupta70/PID-pingpong/assets/71406905/04454624-fa24-459b-b9da-c3982919b143)
 
+This is the project wiring. The back part with an N represents a large transistor. It is powered by a 9V battery pack.
+
 ## Code 
 ```
 #Sahana Gupta 
